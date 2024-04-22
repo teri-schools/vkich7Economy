@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EconomySOLID", "EconomySOLID\EconomySOLID.csproj", "{CCBF8FF5-D8DF-45E6-ACCB-9A516B37D554}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EconomySOLID.Tests", "EconomySOLID.Tests\EconomySOLID.Tests.csproj", "{6B138F85-708C-4B08-9F82-08751D0CAB28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCBF8FF5-D8DF-45E6-ACCB-9A516B37D554}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCBF8FF5-D8DF-45E6-ACCB-9A516B37D554}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCBF8FF5-D8DF-45E6-ACCB-9A516B37D554}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCBF8FF5-D8DF-45E6-ACCB-9A516B37D554}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B138F85-708C-4B08-9F82-08751D0CAB28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B138F85-708C-4B08-9F82-08751D0CAB28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B138F85-708C-4B08-9F82-08751D0CAB28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B138F85-708C-4B08-9F82-08751D0CAB28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
